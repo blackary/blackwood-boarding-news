@@ -10,11 +10,26 @@ module.exports = function (eleventyConfig) {
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
 
+  // Add year shortcode
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
+  // Add posts collection
+  eleventyConfig.addCollection("posts", function(collection) {
+    return collection.getFilteredByGlob("./src/posts/*.md").sort((a, b) => {
+      return b.date - a.date;
+    });
+  });
+
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "dd LLL yyyy"
     );
+  });
+
+  // ISO date for datetime attribute
+  eleventyConfig.addFilter("dateIso", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
   });
 
   // Syntax Highlighting for Code blocks
