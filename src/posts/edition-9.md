@@ -1,5 +1,5 @@
 ---
-title: "Edition #10"
+title: "Edition #9"
 description: Boilers Lose their Final Game,The Sun is Shining!, Cool Project at
   Blackwood Boarding
 author: Felicity E. Blackwood
