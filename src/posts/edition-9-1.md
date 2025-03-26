@@ -1,7 +1,7 @@
 ---
 title: "Edition #10"
-description: Fun Weekend of Work at The Faris Farm, March Madness Begins,Time to
-  Get Your  Vitamin D!
+description: Fun Weekend of Work at The Faris Farm, March Madness Begins, Time
+  to Get Your  Vitamin D!
 author: Felicity E. Blackwood
 date: 2025-03-26T00:21:17.360Z
 ---
