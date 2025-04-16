@@ -1,5 +1,5 @@
 ---
-title: "Edition #12"
+title: "Edition #13"
 description: Moving Out, An Exhilarating RGC Youth Group Retreat!, Creepy-Crawly Bug Bowl!
 author: Felicity E. Blackwood
 date: 2025-04-15T23:06:10.220Z
