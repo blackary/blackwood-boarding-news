@@ -8,7 +8,7 @@ date: 2025-07-09T01:31:37.814Z
 
 Well the second birthday party for Lottie Blackwood at the Mann’s didn’t go exactly as planned, and the “fun day” we were all expecting turned out a little…different. We had been having a good visit until one morning during breakfast Emory (who has had an itchy head for weeks) was brushing her hair after her shower when suddenly lice were found on her hairbrush! Panic quickly arose in the room, as everyone realized that we had likely all been infected with the head-chomping bugs. The next few hours (and days) were a frenzy of washing everything in the house, knit combing, louse shampooing, and boiling hair brushes. Zachary Blackwood made a trip to the pharmacy and sold them out of every bottle of lice repellent he could lay his hands on! Let this be a warning to anyone who has spent time with anyone from BBSG in the past month, you may be contaminated.  ![](< >)
 
-## Sightseeing in Canada!
+## Sightseeing in Canada
 
 On our way to Lisbon NY, the Blackwood Boarding teachers decided to stop at Niagara Falls. The entire school strained to peek at the falls from the U.S. side, but had a much better view, after we all walked over to the Canadian side. We were even able to get up close, and get some free stylish yellow raincoats. Principal Blackwood commented, “We got real close to the falls, but, mist.” 
 
