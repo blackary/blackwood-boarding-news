@@ -1,5 +1,5 @@
 ---
-title: "Edition #39"
+title: "Edition #40"
 description: A Chocolatey Excursion, Another RV Birthday?, Walls!
 author: Felicity E. Blackwood
 date: 2025-11-18T04:24:28.976Z
